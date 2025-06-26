@@ -1,0 +1,29 @@
+Name,,,ST1,ST2,ST3,ST4,ST5,ST6,ST7,ST8
+Test Code,,,987,231,231,987,645,987,231,645
+Python,Q01,Arithmetic,2,2,2,2,2,2,0,2
+Python,Q02,Strings,-,0,2,-,2,-,0,0
+Python,Q03,Strings,2,0,2,2,-,2,2,-
+Python,Q04,"Lists, Strings",-,4,4,-,-,-,4,-
+Python,Q05,Strings,2,2,2,0,2,0,2,2
+Python,Q06,Comprehension,0,4,4,4,4,2,0,4
+Python,Q07,"Lists, Strings",0,-,-,0,-,0,-,-
+Python,Q08,Strings,2,-,-,2,2,0,-,2
+Python,Q09,Modules,2,0,0,2,2,2,2,2
+Python,Q10,Lists,2,2,2,2,0,0,2,0
+Python,Q11,Loops,2,0,2,2,2,2,2,0
+Python,Q12,Loops,2,2,2,2,-,2,2,-
+Python,Q13,Loops,-,-,-,-,4,-,-,0
+Python,Q14,Loops,2,-,-,2,2,2,-,0
+Python,Q15,Loops,-,0,2,-,2,-,2,0
+Statistics,QS1,Mode,2,0,2,0,-,2,2,-
+Statistics,QS2,Median,-,2,2,-,0,-,2,2
+Statistics,QS3,"Mode, Median",4,0,4,4,4,4,4,4
+Statistics,QS4,Mode,2,-,-,2,2,0,-,2
+Probability,PS1,Height,0,0,2,2,-,2,2,-
+Probability,PS2,Bowlers,-,2,2,-,2,-,2,2
+Probability,PS3,Last 2 sixes,0,-,-,0,2,0,-,2
+Probability,PS4,10 to win,4,0,0,0,0,4,0,4
+Lin Algebra,LS1,Age,0,0,2,0,-,2,2,-
+Lin Algebra,LS2,Sim Equations,-,0,2,-,2,-,2,2
+Lin Algebra,LS3,Sim Equations,0,0,4,4,4,0,4,4
+Lin Algebra,LS4,Age,0,-,-,2,0,2,-,0
